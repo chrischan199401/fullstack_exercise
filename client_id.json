@@ -1,0 +1,12 @@
+{
+    "web": {
+        "client_id": "198443873398-8d9pnb45tqh229qqbtssuep2t9anq55u.apps.googleusercontent.com",
+        "project_id": "email-dev-202403",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://accounts.google.com/o/oauth2/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "rJ4ZVJWWxOKsOapyMM7QXvlE",
+        "redirect_uris": ["http://localhost:5000/*"],
+        "javascript_origins": ["http://localhost:5000"]
+    }
+}
